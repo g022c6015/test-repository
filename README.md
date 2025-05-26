@@ -1,3 +1,3 @@
 # test-repository
-あいうえお
+
 かきくけこ
